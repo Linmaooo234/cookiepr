@@ -1,0 +1,9 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+}
+
+.buttonadd{
+    border: 2px darkseagreen solid;
+    padding: 10px;
+}
